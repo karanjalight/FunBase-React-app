@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+
+
+.AppAgePredictor{
+  background-color: #282c34;
+  color: #dfdfdf;
+  padding: 10px;
+  border-radius: 12px;
+  margin-bottom: 3px;
+  height: 30vh;
+
+}
+
+.AppAgePredictor input{
+  height: 25px;
+  border-radius: 10px;
+  cursor: pointer;
+
+}
+
+.AppAgePredictor button{
+  background-color: rgb(0, 255, 13);
+  border-radius: 10px;
+  padding: 8px;
+  
+}
+
+.catFact{
+  background-color: orange;
+  height: auto;
+  color: #ffffff;
+  border-radius: 12px;
+  padding: 5px;
+}
+
+.catFact button{
+  background-color: rgba(224, 17, 17, 0.445);
+
+}
+
